@@ -1,5 +1,5 @@
 <?php
-$ip = "localhost";
+$ip = "18.208.220.83";
 $db_name = "awssite";
 $password = "vvsiWuB51FAL";
 $username = "admin";
